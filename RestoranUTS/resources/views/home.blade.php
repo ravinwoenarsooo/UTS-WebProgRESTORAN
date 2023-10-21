@@ -52,9 +52,9 @@
             <button type="button" class="relative rounded-full bg-red-500 p-1 text-white hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
                 <span class="absolute -inset-1.5"></span>
                 <span class="sr-only">View notifications</span>
-                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75v-.7V9A6 6 0 006 9v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0" />
-                </svg>
+                <div class="flex flex-shrink-0">
+                    <img class="h-8 w-auto" src="https://th.bing.com/th/id/R.984e6c563e1b12f4849dbdd29af55429?rik=C%2faY251Os%2fhFlg&riu=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1700%2f2d%2f512%2fcart.png&ehk=%2fd%2b3k%2fPNfjLeO50WugykB6pL47QGhiPC7t4K9IG2e4c%3d&risl=&pid=ImgRaw&r=0">
+                </div>
             </button>
         </div>
     </div>
@@ -104,7 +104,7 @@
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                     <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
+                    <h3 class="text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
                         Travel
@@ -114,7 +114,7 @@
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
-            <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+            <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                     <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
@@ -155,10 +155,32 @@
         </div>
     </div>
 </div>
+<!-- Abotus -->
+<div class="mb-20">
+    <div class="container mx-auto flex flex-col items-center">
+        <h2 class="text-3xl font-extrabold text-black mb-6">About Us</h2>
+        <div class="md:flex md:space-x-6">
+            <div class="md:text-center">
+                <p class="text-black leading-relaxed mb-4">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
+                    Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
+                </p>
+                <p class="text-black leading-relaxed mb-4">
+                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
+                    fermentum scelerisque at non ex. Sed vel ipsum velit.
+                </p>
+                <p class="text-black leading-relaxed mb-4">
+                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
+                    Vivamus a neque et odio aliquam hendrerit.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- Footer -->
 <div class="bg-red-500 py-16">
     <div class="container mx-auto flex flex-col items-center">
-        <h2 class="text-3xl font-extrabold text-white mb-6">About Us</h2>
+        <h2 class="text-3xl font-extrabold text-white mb-6">Our Contacts</h2>
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
                 <p class="text-white leading-relaxed mb-4">
