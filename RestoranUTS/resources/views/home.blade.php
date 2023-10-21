@@ -48,7 +48,7 @@
         </div>
         </div>
         <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-        <a href="{{ route('login') }}">
+        <a href="">
             <button type="button" class="bg-blue-800 hover:bg-blue-500 text-white font-semibold py-2 px-4 rounded">
                 Sign In
             </button>
