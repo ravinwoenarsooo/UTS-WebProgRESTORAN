@@ -41,14 +41,14 @@
         <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-4">
             <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-            <a href="#" class="bg-white text-red-500 rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Dashboard</a>
+            <a href="{{ route('home') }}" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Dashboard</a>
             <a href="#" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">About Us</a>
             <a href="#" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Contact Us</a>
             </div>
         </div>
         </div>
         <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-            <a href="#" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Sign In</a>
+            <a href="{{ route('login') }}" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Sign In</a>
             <button type="button" class="relative rounded-full bg-red-500 p-1 text-white hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
                 <span class="absolute -inset-1.5"></span>
                 <span class="sr-only">View notifications</span>
@@ -70,60 +70,67 @@
     </div>
     </div>
 </nav>
-    <div class="relative z-10" aria-labelledby="slide-over-title" role="dialog" aria-modal="true">
-        <div class="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity"></div>
-        <div class="fixed inset-0 overflow-hidden">
-            <div class="absolute inset-0 overflow-hidden">
-                <div class="pointer-events-none fixed inset-y-0 right-0 flex max-w-full pl-10">
-                    <div class="pointer-events-auto w-screen max-w-md">
-                        <div class="flex h-full flex-col overflow-y-scroll bg-white shadow-xl">
-                            <div class="flex-1 overflow-y-auto px-4 py-6 sm:px-6">
-                                <div class="flex items-start justify-between">
-                                    <h2 class="text-lg font-medium text-gray-900" id="slide-over-title">Shopping cart</h2>
-                                    <div class="ml-3 flex h-7 items-center">
-                                    <button type="button" class="absolute top-2 right-2 p-2 text-gray-400 hover:text-gray-500">
-                                        <span class="sr-only">Close panel</span>
-                                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                                            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                                        </svg>
-                                    </button>
-                                    </div>
-                                </div>
+<div class="container mx-auto">
+    <div class="py-8">
+        <h2 class="text-2xl font-semibold mb-4">Shopping Cart</h2>
 
-                                <div class="mt-8">
-                                    <div class="flow-root">
-                                        <ul role="list" class="-my-6 divide-y divide-gray-200">
-                                            <!-- Cart items go here -->
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="border-t border-gray-200 px-4 py-6 sm:px-6">
-                                <div class="flex justify-between text-base font-medium text-gray-900">
-                                    <p>Subtotal</p>
-                                    <p>$262.00</p>
-                                </div>
-                                <p class="mt-0.5 text-sm text-gray-500">Shipping and taxes calculated at checkout.</p>
-                                <div class="mt-6">
-                                    <a href="#" class="flex items-center justify-center rounded-md border border-transparent bg-red-500 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-black">Checkout</a>
-                                </div>
-                                <div class="mt-6 flex justify-center text-center text-sm text-gray-500">
-                                    <p>
-                                        or
-                                        <button type="button" class="font-medium text-red-500 hover:text-red-500">
-                                            Continue Shopping
-                                            <span aria-hidden="true"> &rarr;</span>
-                                        </button>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <!-- Cart Items -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- Cart Item -->
+            <div class="bg-white rounded-lg shadow-md p-4">
+                <img src="product-image-1.jpg" alt="Product 1" class="w-full h-32 object-cover object-center">
+                <div class="mt-4">
+                    <h3 class="text-lg font-semibold">Product 1</h3>
+                    <p class="text-gray-600">Price: $19.99</p>
+                    <p class="text-gray-600">Quantity: 1</p>
                 </div>
+                <button class="mt-4 block w-full bg-red-500 text-white text-center py-2 rounded-lg hover:bg-red-600">
+                    Remove
+                </button>
+            </div>
+
+            <!-- Cart Item -->
+            <div class="bg-white rounded-lg shadow-md p-4">
+                <img src="product-image-2.jpg" alt="Product 2" class="w-full h-32 object-cover object-center">
+                <div class="mt-4">
+                    <h3 class="text-lg font-semibold">Product 2</h3>
+                    <p class="text-gray-600">Price: $29.99</p>
+                    <p class="text-gray-600">Quantity: 1</p>
+                </div>
+                <button class="mt-4 block w-full bg-red-500 text-white text-center py-2 rounded-lg hover:bg-red-600">
+                    Remove
+                </button>
+            </div>
+
+            <!-- Add more cart items here -->
+            <div class="bg-white rounded-lg shadow-md p-4">
+                <img src="product-image-2.jpg" alt="Product 2" class="w-full h-32 object-cover object-center">
+                <div class="mt-4">
+                    <h3 class="text-lg font-semibold">Product 3</h3>
+                    <p class="text-gray-600">Price: $29.99</p>
+                    <p class="text-gray-600">Quantity: 1</p>
+                </div>
+                <button class="mt-4 block w-full bg-red-500 text-white text-center py-2 rounded-lg hover:bg-red-600">
+                    Remove
+                </button>
             </div>
         </div>
+
+        <!-- Cart Summary -->
+        <div class="mt-8 bg-white rounded-lg shadow-md p-4">
+            <h3 class="text-lg font-semibold">Cart Summary</h3>
+            <div class="mt-4">
+                <p class="text-gray-600">Subtotal: $49.98</p>
+                <p class="text-gray-600">Shipping: $5.00</p>
+                <p class="text-gray-600">Total: $54.98</p>
+            </div>
+            <button class="mt-4 block w-full bg-red-500 text-white text-center py-2 rounded-lg hover:bg-red-700">
+                Checkout
+            </button>
+        </div>
     </div>
+</div>
+
     
 </body>
 </html>

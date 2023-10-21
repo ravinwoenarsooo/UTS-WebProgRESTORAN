@@ -26,6 +26,10 @@ class NewPageController extends Controller
         return view('menu');
     }
 
+    public function cart(){
+        return view('cart');
+    }
+
     public function forgotpassword(){
         return view('forgotpassword');
     }
