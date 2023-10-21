@@ -34,7 +34,9 @@ use Illuminate\Support\Facades\Route;
 //     return view('shoppingcart');
 // });
 
-
+// Route::get('/new', function(){
+// return view('newpassword');
+// });
 //
 
 Route::get('/home', [NewPageController::class, 'home'])->name('home');
@@ -42,7 +44,5 @@ Route::get('/login', [NewPageController::class, 'login'])->name('login');
 Route::get('/register', [NewPageController::class, 'register'])->name('register');
 Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');
 Route::get('/forgotpassword', [NewPageController::class, 'forgotpassword'])->name('forgotpassword');
+Route::get('/newpassword', [NewPageController::class, 'newpassword'])->name('newpassword');
 
-Route::get('/new', function(){
-return view('newpassword');
-});

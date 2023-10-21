@@ -23,4 +23,8 @@ class NewPageController extends Controller
     public function forgotpassword(){
         return view('forgotpassword');
     }
+
+    public function newpassword(){
+        return view('newpassword');
+    }
 }
