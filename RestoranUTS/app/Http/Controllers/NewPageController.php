@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 class NewPageController extends Controller
 {
+    public function admin(){
+        return view('admin');
+    }
     public function home(){
         return view('home');
     }
@@ -26,5 +29,24 @@ class NewPageController extends Controller
 
     public function newpassword(){
         return view('newpassword');
+    }
+
+    public function alacarte(){
+        return view('alacarte');
+    }
+    public function beverages(){
+        return view('beverages');
+    }
+    public function dessert(){
+        return view('dessert');
+    }
+    public function ramen(){
+        return view('ramen');
+    }
+    public function rice(){
+        return view('rice');
+    }
+    public function sushi(){
+        return view('sushi');
     }
 }
