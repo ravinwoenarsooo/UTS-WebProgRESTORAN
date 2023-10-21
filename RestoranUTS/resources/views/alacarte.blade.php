@@ -117,81 +117,107 @@
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <h2 class="text-2xl font-bold text-gray-900">Ala Carte</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://static01.nyt.com/images/2018/07/25/dining/HK-karaage-horizontal/merlin_141075300_74569dec-9fc2-4174-931d-019dddef3bb8-superJumbo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Chicken Karage 
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 30.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://asset.kompas.com/crops/g1ZRThHPyu9fk48T5_ZG9EC4Gzs=/36x69:606x449/750x500/data/photo/2021/12/06/61adb12ae38e0.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Gyoza
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 35.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://awsimages.detik.net.id/community/media/visual/2022/06/30/resep-chicken-katsu_43.jpeg?w=1200" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Chicken Katsu
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 30.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://static01.nyt.com/images/2018/07/25/dining/HK-karaage-horizontal/merlin_141075300_74569dec-9fc2-4174-931d-019dddef3bb8-superJumbo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." alt="Chicken Karaage" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Chicken Karaage</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Chicken Karaage
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 30,000.00</p>
+</div>
+
+<!-- Gyoza -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://asset.kompas.com/crops/g1ZRThHPyu9fk48T5_ZG9EC4Gzs=/36x69:606x449/750x500/data/photo/2021/12/06/61adb12ae38e0.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." alt="Gyoza" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Gyoza</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Gyoza
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 35,000.00</p>
+</div>
+
+<!-- Chicken Katsu -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://awsimages.detik.net.id/community/media/visual/2022/06/30/resep-chicken-katsu_43.jpeg?w=1200" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center" alt="Chicken Katsu" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Chicken Katsu</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Chicken Katsu
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 30,000.00</p>
+</div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://images.healthshots.com/healthshots/en/uploads/2023/06/30144826/edamame-1600x900.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Edamame
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 20.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://awsimages.detik.net.id/community/media/visual/2021/07/26/resep-ebi-furai-hokben_43.jpeg?w=1200" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Ebi Furai
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 34.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.escapat.com/en/img/magazine/100050/Tempura_batter_with_panko_1.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Tempura
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 35.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://images.healthshots.com/healthshots/en/uploads/2023/06/30144826/edamame-1600x900.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." alt="Edamame" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Edamame</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Edamame
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 20,000.00</p>
+</div>
+
+<!-- Ebi Furai -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://awsimages.detik.net.id/community/media/visual/2021/07/26/resep-ebi-furai-hokben_43.jpeg?w=1200" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." alt="Ebi Furai" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Ebi Furai</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Ebi Furai
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 34,000.00</p>
+</div>
+
+<!-- Tempura -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.escapat.com/en/img/magazine/100050/Tempura_batter_with_panko_1.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center" alt="Tempura" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Tempura</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Tempura
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 35,000.00</p>
+</div>
             </div>
         </div>
     </div>
