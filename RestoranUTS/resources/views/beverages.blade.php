@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
-    <title>Register</title>
+    <title>Beverages</title>
 </head>
 <style>
         nav {
@@ -86,7 +86,7 @@
 <div class="bg-gray-100">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
-            <h2 class="text-2xl font-bold text-gray-900">Categories</h2>
+            <h2 class="text-2xl font-bold text-gray-900">Beverages</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -98,7 +98,7 @@
                         Mineral Water
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Harga</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 12.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -110,7 +110,7 @@
                         Ocha
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 7.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -122,7 +122,7 @@
                         Sprite
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 15.000,00</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -137,7 +137,7 @@
                         Lychee Tea
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">13.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -149,7 +149,7 @@
                         Coffee
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 18.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -158,10 +158,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Sweet Tea
+                        Sweet Iced Tea
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 12.000,00</p>
                 </div>
             </div>
         </div>
