@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\NewPageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,9 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+// Route::get('/home', function () {
+//     return view('home');
+// });
 
 Route::get('/regis', function () {
     return view('register');
@@ -32,3 +33,8 @@ Route::get('/menu', function(){
 Route::get('/cart', function(){
     return view('shoppingcart');
 });
+
+//
+
+Route::get('/home', [NewPageController::class, 'home']);
+Route::get('/login', [NewPageController::class, 'login']);
