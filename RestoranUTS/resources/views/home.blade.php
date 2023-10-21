@@ -95,22 +95,22 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        寿司
+                        すし
                     </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900">Sushi</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://eatstreetcrossing.com/wp-content/uploads/2022/06/Trio-Ramen-Beauty-Shot-Landscape.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://eatstreetcrossing.com/wp-content/uploads/2022/06/Trio-Ramen-Beauty-Shot-Landscape.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
-                    <h3 class="text-sm text-gray-500">
+                    <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        拉麺
+                        ラーメン
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">Ramens</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -122,7 +122,7 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        飲料
+                        飲み物
                     </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900">Beverages</p>
@@ -137,7 +137,7 @@
                         デザート
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Ice Creams</p>
+                    <p class="text-base font-semibold text-gray-900">Desserts</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
