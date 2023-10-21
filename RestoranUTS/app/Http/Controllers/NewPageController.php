@@ -19,4 +19,8 @@ class NewPageController extends Controller
     public function menu(){
         return view('menu');
     }
+
+    public function forgotpassword(){
+        return view('forgotpassword');
+    }
 }
