@@ -27,7 +27,7 @@ class NewPageController extends Controller
     }
 
     public function cart(){
-        return view('cart');
+        return view('shoppingcart');
     }
 
     public function forgotpassword(){
