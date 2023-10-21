@@ -36,5 +36,7 @@ Route::get('/cart', function(){
 
 //
 
-Route::get('/home', [NewPageController::class, 'home']);
+Route::get('/home', [NewPageController::class, 'home'])->name('home');
 Route::get('/login', [NewPageController::class, 'login'])->name('login');
+Route::get('/register', [NewPageController::class, 'register'])->name('register');
+Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');

@@ -12,7 +12,11 @@ class NewPageController extends Controller
         return view('login');
     }
 
-    public function regis(){
-        return view('regis');
+    public function register(){
+        return view('register');
+    }
+
+    public function menu(){
+        return view('menu');
     }
 }
