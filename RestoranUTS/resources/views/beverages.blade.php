@@ -120,9 +120,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://luxurylaunches.com/wp-content/uploads/2019/08/landscape_bottle_us.jpg" alt="Mineral Water" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Mineral Water</div>
+            <div class="image-description">Fresh Evian Water</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -138,7 +137,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.jjdrinks.com.sg/wp-content/uploads/2021/12/ocha-01-1.jpg" alt="Ocha" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Ocha</div>
+            <div class="image-description">Ocha is Japanese for green tea. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -153,7 +152,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://hips.hearstapps.com/del.h-cdn.co/assets/17/08/2048x1024/landscape-1487867180-13559151-1777121079199514-6612360195297795246-o.jpg?resize=1200:*" alt="Sprite" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Sprite</div>
+            <div class="image-description">Sprite® is a perfectly clear lemon-lime sparkling beverage with 100% natural flavors and no caffeine. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -172,7 +171,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://kanakala.id/wp-content/uploads/2023/07/Kanakala-Lychee-Tea-Landscape2-scaled.jpg" alt="Lychee Tea" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Lychee Tea</div>
+            <div class="image-description">It starts with a base of black tea that is infused with natural lychee flavor in the form of lychee simple syrup and real lychee fruit.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -188,7 +187,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://portfoliocoffee.ca/cdn/shop/articles/cb9899383fd14d627168ecc7aff69c29.jpg?v=1656076688" alt="Coffee" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Coffee</div>
+            <div class="image-description">A beverage prepared from roasted coffee beans.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -204,7 +203,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://media.istockphoto.com/id/497892585/photo/homemade-iced-tea-with-lemons.jpg?s=612x612&w=0&k=20&c=bJ9exSdr4HCoTDZvkxt-RkoAlgTtgUxaSaa2hqEQbhU=" alt="Lemon Tea" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Lemon Tea</div>
+            <div class="image-description">Lemon Tea is a refreshing tea where lemon juice is added in black or green tea. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">

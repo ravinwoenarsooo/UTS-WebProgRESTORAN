@@ -121,7 +121,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://static01.nyt.com/images/2018/07/25/dining/HK-karaage-horizontal/merlin_141075300_74569dec-9fc2-4174-931d-019dddef3bb8-superJumbo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." alt="Chicken Karaage" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Chicken Karaage</div>
+            <div class="image-description">Japanese cooking technique in which an ingredient is lightly coated with flour and deep-fried in oil.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -133,12 +133,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 30,000.00</p>
 </div>
 
-<!-- Gyoza -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://asset.kompas.com/crops/g1ZRThHPyu9fk48T5_ZG9EC4Gzs=/36x69:606x449/750x500/data/photo/2021/12/06/61adb12ae38e0.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." alt="Gyoza" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Gyoza</div>
+            <div class="image-description">Gyoza (餃子) are dumplings filled with ground meat and vegetables and wrapped in a thin dough. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -150,12 +149,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 35,000.00</p>
 </div>
 
-<!-- Chicken Katsu -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://awsimages.detik.net.id/community/media/visual/2022/06/30/resep-chicken-katsu_43.jpeg?w=1200" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center" alt="Chicken Katsu" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Chicken Katsu</div>
+            <div class="image-description">A Japanese dish of fried chicken made with panko bread crumbs. It is related to tonkatsu, fried pork cutlets.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -173,7 +171,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://images.healthshots.com/healthshots/en/uploads/2023/06/30144826/edamame-1600x900.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." alt="Edamame" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Edamame</div>
+            <div class="image-description">Edamame are young soybeans harvested before they ripen or harden. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -185,12 +183,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 20,000.00</p>
 </div>
 
-<!-- Ebi Furai -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://awsimages.detik.net.id/community/media/visual/2021/07/26/resep-ebi-furai-hokben_43.jpeg?w=1200" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." alt="Ebi Furai" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Ebi Furai</div>
+            <div class="image-description">Ebi furai (海老フライ or エビフライ) is a breaded and deep-fried prawn dish, of darker and crunchy texture.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -207,7 +204,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.escapat.com/en/img/magazine/100050/Tempura_batter_with_panko_1.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center" alt="Tempura" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Tempura</div>
+            <div class="image-description">Tempura consists of vegetables and seafood battered and deep fried, and served over rice or noodles.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
