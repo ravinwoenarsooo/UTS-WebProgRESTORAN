@@ -44,19 +44,26 @@
           <input id="confirm-password" name="confirm-password" type="password" autocomplete="current-password" required class="block w-full rounded-md border-0 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
         </div>
       </div>
-      <div>
-      <label for="captcha" class="block text-sm font-medium leading-6 text-gray-900">Captcha</label>
+
+    <div>
+        <label for="captcha" class="block text-sm font-medium leading-6 text-gray-900">Captcha</label>
         <div class="mt-2">
-            <img src="generate_captcha.php">
+            <?php
+            session_start();
+            $captchaText = substr(str_shuffle("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 5);
+            $_SESSION['captcha'] = $captchaText;
+            echo $captchaText;
+            ?>
             <input id="captcha" name="captcha" type="text" required class="block w-full rounded-md border-0 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
         </div>
       </div>
-      <div>
+
         <button type="submit" class="flex w-full justify-center rounded-md bg-red-500 px-3 py-2 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-500">Sign Up</button>
       </div>
     </form>
   </div>
 </div>
+
 
 </body>
 </html>
