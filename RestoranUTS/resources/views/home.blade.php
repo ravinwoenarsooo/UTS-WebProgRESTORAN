@@ -111,6 +111,9 @@
                     </h3>
                     <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
                 </div>
+            </div>
+            <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
+            <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                     <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
@@ -151,5 +154,30 @@
         </div>
     </div>
 </div>
+<div class="bg-red-500 py-16">
+    <div class="container mx-auto flex flex-col items-center">
+        <h2 class="text-3xl font-extrabold text-white mb-6">About Us</h2>
+
+        <div class="md:flex md:space-x-6">
+            <div class="md:text-center">
+                <p class="text-white leading-relaxed mb-4">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
+                    Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
+                </p>
+                <p class="text-white leading-relaxed mb-4">
+                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
+                    fermentum scelerisque at non ex. Sed vel ipsum velit.
+                </p>
+                <p class="text-white leading-relaxed mb-4">
+                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
+                    Vivamus a neque et odio aliquam hendrerit.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 </body>
 </html>
