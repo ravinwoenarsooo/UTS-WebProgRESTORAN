@@ -110,7 +110,7 @@
                         ラーメン
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Ramens</p>
+                    <p class="text-base font-semibold text-gray-900">Ramen</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
