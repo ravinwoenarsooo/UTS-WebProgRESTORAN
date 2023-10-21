@@ -5,6 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
     <title>Home</title>
+    <style>
+        /* Add this CSS to style the fixed navigation bar */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #FF0000; /* Set your desired background color */
+            z-index: 1000; /* Adjust the z-index to ensure it's above other elements */
+        }
+
+        /* Add some padding to the body to prevent content from being hidden under the fixed navigation bar */
+        body {
+            padding-top: 64px; /* Adjust this value based on your navigation bar's height */
+        }
+    </style>
 </head>
 <body>
 <!-- Nav -->
