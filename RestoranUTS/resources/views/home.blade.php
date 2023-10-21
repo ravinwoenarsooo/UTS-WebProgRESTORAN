@@ -174,17 +174,8 @@
         <h2 class="text-3xl font-extrabold text-black mb-6">About Us</h2>
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
-                <p class="text-black leading-relaxed mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
-                    Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
-                </p>
-                <p class="text-black leading-relaxed mb-4">
-                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
-                    fermentum scelerisque at non ex. Sed vel ipsum velit.
-                </p>
-                <p class="text-black leading-relaxed mb-4">
-                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
-                    Vivamus a neque et odio aliquam hendrerit.
+                <p class="text-black text-lg font-medium leading-loose tracking-wider text-justify mb-4">
+                Selamat datang di Kenjiro Kashiwa, tempat menikmati autentisitas masakan Jepang dengan sentuhan khas kami. Chef Kenjiro Kashiwa, dengan puluhan tahun pengalaman, membawa kelezatan Jepang ke meja Anda. Dari sushi segar hingga ramen menggugah selera, kami hadirkan rasa Jepang otentik dengan cinta. Bergabunglah dalam perjalanan rasa kami!
                 </p>
             </div>
         </div>
@@ -196,17 +187,9 @@
         <h2 class="text-3xl font-extrabold text-white mb-6">Our Contacts</h2>
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
-                <p class="text-white leading-relaxed mb-4">
+                <p class="text-white text-lg font-medium leading-loose tracking-wider text-justify mb-4"">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
                     Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
-                </p>
-                <p class="text-white leading-relaxed mb-4">
-                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
-                    fermentum scelerisque at non ex. Sed vel ipsum velit.
-                </p>
-                <p class="text-white leading-relaxed mb-4">
-                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
-                    Vivamus a neque et odio aliquam hendrerit.
                 </p>
             </div>
         </div>
