@@ -96,10 +96,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Mochi Ice Cream
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Mochi Ice Cream</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 10.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -108,10 +108,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Pudding
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Pudding</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 20.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -123,7 +123,7 @@
                         Taiyaki Ice Cream
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 12.000,00</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -135,10 +135,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Matcha Monaka
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Matcha Monaka</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 11.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -147,10 +147,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Pancake
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Pancake</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 23.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -159,10 +159,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Travel
+                        Roll Cake
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Roll Cake</p>
+                    <p class="text-base font-semibold text-gray-900">30.000,00</p>
                 </div>
             </div>
         </div>
