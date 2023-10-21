@@ -83,10 +83,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Rice
+                        ライスボウル
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">Rice Bowls</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -95,10 +95,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Sushi
+                        寿司
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">Sushi</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -107,10 +107,10 @@
                     <h3 class="text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Ramen
+                        拉麺
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">Ramen</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -122,10 +122,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Drink
+                        飲料
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">Beverages</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -134,10 +134,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Dessert
+                        デザート
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">Ice Creams</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -146,10 +146,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Ala-Carte
+                        アラカルト
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">Ala-Carte</p>
                 </div>
             </div>
         </div>
