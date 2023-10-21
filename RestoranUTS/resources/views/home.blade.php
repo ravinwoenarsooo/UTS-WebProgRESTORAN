@@ -7,6 +7,7 @@
     <title>Home</title>
 </head>
 <body>
+<!-- Nav -->
 <nav class="bg-red-500">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
     <div class="relative flex h-16 items-center justify-between">
@@ -69,7 +70,7 @@
     </div>
     </div>
 </nav>
-
+<!-- Carousel -->
 <div class="bg-gray-100">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -154,10 +155,10 @@
         </div>
     </div>
 </div>
+<!-- Footer -->
 <div class="bg-red-500 py-16">
     <div class="container mx-auto flex flex-col items-center">
         <h2 class="text-3xl font-extrabold text-white mb-6">About Us</h2>
-
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
                 <p class="text-white leading-relaxed mb-4">
