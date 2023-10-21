@@ -119,19 +119,19 @@
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://d2qjkwm11akmwu.cloudfront.net/products/667431_17-9-2021_14-19-9-1665839919.webp" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://luxurylaunches.com/wp-content/uploads/2019/08/landscape_bottle_us.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Mineral Water
+                        Evian Mineral Water
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 12.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 12.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://th.bing.com/th/id/OIP.uyu15t0RFWK5sqiW2VOVmAHaE8?w=290&h=193&c=7&r=0&o=5&pid=1.7" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://www.jjdrinks.com.sg/wp-content/uploads/2021/12/ocha-01-1.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -139,11 +139,11 @@
                         Ocha
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 7.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 8.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://th.bing.com/th/id/OIP.0AqhZir0DeTXKaPNIvglBwHaEo?w=297&h=186&c=7&r=0&o=5&pid=1.7" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://hips.hearstapps.com/del.h-cdn.co/assets/17/08/2048x1024/landscape-1487867180-13559151-1777121079199514-6612360195297795246-o.jpg?resize=1200:*" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -151,14 +151,14 @@
                         Sprite
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 15.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://th.bing.com/th/id/OIP.atq7kWBtj6-qlZpV9uxQtQHaEK?w=328&h=184&c=7&r=0&o=5&pid=1.7" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://kanakala.id/wp-content/uploads/2023/07/Kanakala-Lychee-Tea-Landscape2-scaled.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -166,11 +166,11 @@
                         Lychee Tea
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">13.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 13.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.hanamasaresto.com/photos/shares/product/IMG_8447.JPG" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://portfoliocoffee.ca/cdn/shop/articles/cb9899383fd14d627168ecc7aff69c29.jpg?v=1656076688" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -178,19 +178,19 @@
                         Coffee
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 18.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 17.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://th.bing.com/th/id/OIP.nyDu9zE04q7ZQdyANN1HhwHaI0?w=203&h=241&c=7&r=0&o=5&pid=1.7" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://media.istockphoto.com/id/497892585/photo/homemade-iced-tea-with-lemons.jpg?s=612x612&w=0&k=20&c=bJ9exSdr4HCoTDZvkxt-RkoAlgTtgUxaSaa2hqEQbhU=" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Sweet Iced Tea
+                        Iced Lemon Tea
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 12.000,00</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
                 </div>
             </div>
         </div>
