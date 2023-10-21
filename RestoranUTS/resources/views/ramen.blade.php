@@ -121,9 +121,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.souschef.co.uk/cdn/shop/articles/shutterstock_697241275_tonkotsu_ramen-landscape.jpg?v=1562316760" alt="Delicious Tonkotsu Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Deskripsi</div>
+            <div class="image-description">Tonkotsu ramen (豚骨ラーメン) is a ramen dish that originated in Fukuoka. The soup broth is based on pork bones and other ingredients, which are typically boiled for several hours, and the dish is traditionally topped with chāshū and served with ramen noodles that are hard in the center. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -137,9 +136,8 @@
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://asset.kompas.com/crops/ul9r1FelS4kqjU-7U7wHqk8ZPiA=/100x121:900x654/750x500/data/photo/2023/03/03/6402073d9d6bc.jpg" alt="Scrumptious Tori Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Deskripsi</div>
+            <div class="image-description">Features a creamy and rich chicken paitan broth flavored with a tare, or seasoning, made from a mixture of red miso, soy sauce, sake, dried fish, kelp, and fresh red chiles</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -153,9 +151,8 @@
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x375.jpg" alt="Delicious Miso Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Deskripsi</div>
+            <div class="image-description">Its broth is made from miso along with chicken stock, vegetables, and ground pork. This kind of ramen soup is thick and rich.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -172,9 +169,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://nexttrip.info/up_load_files/5338/photo02.jpg" alt="Delicious Tokushima Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Delicious Tokushima Ramen</div>
+            <div class="image-description">Tokushima Ramen features a rich, enchanting soup topped with tender sweet and spicy pork belly.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -186,13 +182,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 80.000.00</p>
 </div>
 
-<!-- Fifth Ramen (Tokyo Shoyu Ramen) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.wakouusa.com/wp-content/uploads/2017/08/001SHOYU_RAMEN_113_edit.jpg" alt="Delicious Tokyo Shoyu Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Delicious Tokyo Shoyu Ramen</div>
+            <div class="image-description">Shoyu ramen is a ramen dish with a broth made of soy sauce. Shoyu means soy sauce in Japanese. It has high umami flavors along with a tangy strong taste too.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -204,13 +198,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
 </div>
 
-<!-- Sixth Ramen (Hakodate Shio Ramen) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://asianinspirations.com.au/wp-content/uploads/2019/07/R02338_Hakodate_Shio_Ramen.jpg" alt="Delicious Hakodate Shio Ramen" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Delicious Hakodate Shio Ramen</div>
+            <div class="image-description">Noted for its clear soup with a heavier flavor made with pork ribs and backbones as well as chicken bones cooked slowly for a long time. The noodles are slightly curly and mix well within the soup.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">

@@ -120,9 +120,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://asset.kompas.com/crops/jNaDWnnnOX0kJdR-tv9hOz9OOxw=/32x0:791x506/750x500/data/photo/2023/01/04/63b563fd4b23e.jpg" alt="Curry Katsudon" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Curry Katsudon</div>
+            <div class="image-description">Made of crunchy chicken cutlet or pork cutlet is served over rice and smothered in a creamy curry sauce.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -134,13 +133,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
 </div>
 
-<!-- Second Dish (Gyudon) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://thewoksoflife.com/wp-content/uploads/2023/07/gyudon-7.jpg" alt="Gyudon" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Gyudon</div>
+            <div class="image-description">A Japanese dish consisting of a bowl of rice topped with beef and onion simmered in a mildly sweet sauce flavored with dashi, soy sauce and mirin.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -158,7 +155,7 @@
         <img src="https://www.thespruceeats.com/thmb/9xIb4zUFvMmxgCx9-0Pam1bsAAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/katsudon-2031259-hero-01-eaeaad239007461ab5fdb909bcf52c76.jpg" alt="Katsudon" class="h-full w-full object-cover object-center">
         <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Katsudon</div>
+            <div class="image-description">Katsudon (カツ丼) is a popular Japanese food, a bowl of rice topped with a deep-fried breaded pork cutlet, egg, vegetables, and condiments.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -175,9 +172,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://norecipes.com/wp-content/uploads/2020/09/japanese-pork-bowl-001-1200x800.jpg" alt="Butadon" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Butadon</div>
+            <div class="image-description">A Japanese dish consisting of a bowl of rice topped with pork simmered in a mildly sweet sauce. It also often includes a sprinkling of green peas</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -189,13 +185,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 70.000,00</p>
 </div>
 
-<!-- Fifth Dish (Unadon) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-        <img src="https://images.food52.com/SH6Jgp6YblgAMBQYiJrbULFC6fU=/1200x900/497fb4ba-6bad-4231-ad55-78b43b1ccca9--2022-0310_unadon-eel-rice-bowl-final_3x2_julia-gartland.jpg" alt="Unadon" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
+        <img src="https://images.food52.com/SH6Jgp6YblgAMBQYiJrbULFC6fU=/1200x900/497fb4ba-6bad-4231-ad55-78b43b1ccca9--2022-0310_unadon-eel-rice-bowl-final_3x2_julia-gartland.jpg" alt="Unadon" class="h-full w-full object-cover object-center">>
         <div class="image-description-overlay">
-            <div class="image-description">Unadon</div>
+            <div class="image-description">Consists of a donburi type large bowl filled with steamed white rice, and topped with fillets of eel (unagi) grilled in a style known as kabayaki, similar to teriyaki.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -207,13 +201,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 34.000,00</p>
 </div>
 
-<!-- Sixth Dish (Ten-don) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://cdn.media.amplience.net/i/japancentre/recipe-354-tendon-tempura-rice-bowl/Tendon-tempura-rice-bowl?$poi$&w=700&h=410&sm=c&fmt=auto" alt="Ten-don" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Ten-don</div>
+            <div class="image-description"> A donburi often abbreviated to don is a dish consisting of a large Japanese rice bowl with fish, meat, vegetables or other ingredients on it, with tempura fried vegetable or seafood fritters on top </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
