@@ -101,7 +101,7 @@
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://www.thespruceeats.com/thmb/9xIb4zUFvMmxgCx9-0Pam1bsAAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/katsudon-2031259-hero-01-eaeaad239007461ab5fdb909bcf52c76.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="text-sm text-gray-500">
                     <a href="#">
@@ -109,7 +109,7 @@
                         Travel
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">Katsudon</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
