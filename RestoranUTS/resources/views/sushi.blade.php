@@ -73,11 +73,11 @@
 <div class="bg-gray-100">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
-            <h2 class="text-2xl font-bold text-gray-900">Categories</h2>
+            <h2 class="text-2xl font-bold text-gray-900">Sushi</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://blog.sesa.id/wp-content/uploads/2022/02/SALMON-MENTAI.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -85,11 +85,11 @@
                         Desk and Office
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">Salmon Mentai Roll</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-02.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/8a/be/aa/salmon-unagi-cheese-roll.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -97,11 +97,11 @@
                         Self-Improvement
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">Salmon Unagi Roll</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://secretsofsushi.com/wp-content/uploads/2014/07/Salmon_Roll_web.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="text-sm text-gray-500">
                     <a href="#">
@@ -109,14 +109,14 @@
                         Travel
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">Salmon Maki</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/3c/42/92/salmon-aburi-roll.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -124,11 +124,11 @@
                         Desk and Office
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">Salmon Aburi Roll</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-02.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/07/B700033-4-scaled.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -136,11 +136,11 @@
                         Self-Improvement
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">Salmon Volcano Bomb</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://www.justonecookbook.com/wp-content/uploads/2020/01/Futomaki-1344-I.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
@@ -148,7 +148,7 @@
                         Travel
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">Futomaki</p>
                 </div>
             </div>
         </div>
