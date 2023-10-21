@@ -94,7 +94,7 @@
                     <img src="https://static.vecteezy.com/system/resources/previews/002/889/188/large_2x/beef-sliced-on-topped-rice-with-egg-or-gyudon-japanese-food-style-free-photo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('menu') }}">
+                    <a href="{{ route('rice') }}">
                         <span class="absolute inset-0"></span>
                         ライスボウル
                     </a>
@@ -106,7 +106,7 @@
                     <img src="https://iso.500px.com/wp-content/uploads/2020/02/Sushi-and-sashimi-variety-on-rustic-background-By-Alena-Haurylik-2.jpeg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('menu') }}">
+                    <a href="{{ route('sushi') }}">
                         <span class="absolute inset-0"></span>
                         すし
                     </a>
@@ -118,7 +118,7 @@
                     <img src="https://eatstreetcrossing.com/wp-content/uploads/2022/06/Trio-Ramen-Beauty-Shot-Landscape.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('menu') }}{{ route('menu') }}">
+                    <a href="{{ route('ramen') }}">
                         <span class="absolute inset-0"></span>
                         ラーメン
                     </a>
@@ -133,7 +133,7 @@
                     <img src="https://www.schlotzskys.com/-/media/schlotzskys/menu/beverages/coke-products_874x440.jpg?v=1&d=20210630T085825Z" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('beverages') }}">
                         <span class="absolute inset-0"></span>
                         飲み物
                     </a>
@@ -145,7 +145,7 @@
                     <img src="https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/02/22155411/Japanese-dessert-1600x900.jpg?tr=w-1280,pr-true" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('dessert') }}">
                         <span class="absolute inset-0"></span>
                         デザート
                     </a>
@@ -157,7 +157,7 @@
                     <img src="https://www.masakapahariini.com/wp-content/uploads/2023/10/shutterstock_736494148-780x440.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('alacarte') }}">
                         <span class="absolute inset-0"></span>
                         アラカルト
                     </a>
