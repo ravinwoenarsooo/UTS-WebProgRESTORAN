@@ -37,4 +37,4 @@ Route::get('/cart', function(){
 //
 
 Route::get('/home', [NewPageController::class, 'home']);
-Route::get('/login', [NewPageController::class, 'login']);
+Route::get('/login', [NewPageController::class, 'login'])->name('login');
