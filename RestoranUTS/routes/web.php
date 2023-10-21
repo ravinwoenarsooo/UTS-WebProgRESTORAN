@@ -40,6 +40,7 @@ Route::get('/cart', function(){
 //
 
 Route::get('/admin', [NewPageController::class, 'admin'])->name('admin');
+Route::get('/adminui', [NewPageController::class, 'adminui'])->name('adminui');
 Route::get('/home', [NewPageController::class, 'home'])->name('home');
 Route::get('/login', [NewPageController::class, 'login'])->name('login');
 Route::get('/register', [NewPageController::class, 'register'])->name('register');
