@@ -122,7 +122,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://cdn0-production-images-kly.akamaized.net/bj-X5z0w_Gm6hAEwXCLrJCJyM58=/0x0:1000x563/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3468902/original/047431400_1622432348-shutterstock_1439429957.jpg" alt="Mochi Ice Cream" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Mochi Ice Cream</div>
+            <div class="image-description">Mochi ice cream is a delightful and unique dessert that combines traditional Japanese mochi with ice cream. Mochi is a sweet and sticky rice cake made from glutinous rice, and it has a chewy and soft texture. In the context of mochi ice cream, small portions of ice cream are wrapped in a layer of mochi to create bite-sized, frozen treats.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -138,7 +138,8 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.justonecookbook.com/wp-content/uploads/2022/11/Japanese-Custard-Pudding-1211-I-2.jpg" alt="Pudding" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Pudding</div>
+            <div class="image-description">
+Pudding is a type of dessert that can vary in form and flavor, but it is typically characterized by its creamy or soft texture.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -154,7 +155,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://media-cdn.tripadvisor.com/media/photo-s/10/a1/a0/5b/taiyaki-ice-cream-vanilla.jpg" alt="Taiyaki Ice Cream" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Taiyaki Ice Cream</div>
+            <div class="image-description">Taiyaki ice cream is a delightful and Instagram-worthy dessert that combines two popular Japanese treats: taiyaki and ice cream. Taiyaki is a fish-shaped cake traditionally filled with sweet or savory fillings, such as red bean paste, custard, chocolate, or sweet potato. In the case of taiyaki ice cream, the fish-shaped cake is typically filled with a scoop of ice cream.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -173,7 +174,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.zojirushi.com/blog/wp-content/uploads/2018/07/monaka.jpg" alt="Matcha Monaka" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Matcha Monaka</div>
+            <div class="image-description">Matcha monaka is a traditional Japanese confection made with matcha (green tea) flavored ingredients. Monaka is a type of sweet snack typically consisting of two thin, crisp wafers made from glutinous rice (similar to a rice paper) that are filled with a sweet filling. In the case of matcha monaka, the wafers are often flavored with matcha, and the filling typically includes sweet red bean paste (anko) or a combination of red bean paste and sometimes other ingredients like crushed rice, nuts, or matcha-flavored creams.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -189,7 +190,8 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://hips.hearstapps.com/clv.h-cdn.co/assets/15/10/3200x1600/landscape_1425340001-495793505.jpg?resize=1200:*" alt="Pancake" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Pancake</div>
+            <div class="image-description">
+Pancakes are a popular breakfast food enjoyed in many parts of the world. They are relatively simple to make and consist of a batter made from a few basic ingredients. Here is a basic overview of pancakes:</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -205,7 +207,8 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://recipes.net/wp-content/uploads/2021/12/strawberry-and-cream-japanese-roll-cake-recipe.jpg" alt="Roll Cake" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Roll Cake</div>
+            <div class="image-description">
+A roll cake, also known as a Swiss roll or jelly roll, is a type of sponge cake that is rolled into a log shape with a sweet filling. It's a popular and versatile dessert that can be enjoyed in various flavors and fillings. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">

@@ -120,9 +120,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://blog.sesa.id/wp-content/uploads/2022/02/SALMON-MENTAI.jpg" alt="Salmon Mentai Roll" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Salmon Mentai Roll</div>
+            <div class="image-description">Salmon Mentai Roll is a mouthwatering sushi creation that marries fresh salmon, sushi rice, and creamy mentai sauce. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -134,13 +133,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
 </div>
 
-<!-- Eighth Dish (Salmon Unagi Roll) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/8a/be/aa/salmon-unagi-cheese-roll.jpg" alt="Salmon Unagi Roll" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Salmon Unagi Roll</div>
+            <div class="image-description">Salmon Unagi Roll is a tantalizing sushi creation that harmonizes the flavors of both salmon and unagi, or freshwater eel. This roll typically consists of sushi rice, sheets of nori seaweed, slices of fresh salmon, and a layer of grilled or barbecued unagi eel.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -152,13 +149,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 47.000,00</p>
 </div>
 
-<!-- Ninth Dish (Salmon Maki) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://secretsofsushi.com/wp-content/uploads/2014/07/Salmon_Roll_web.jpg" alt="Salmon Maki" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Salmon Maki</div>
+            <div class="image-description">Raw fresh salmon is wrapped in sticky sushi rice and crispy seaweed. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -175,9 +170,8 @@
             <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/3c/42/92/salmon-aburi-roll.jpg" alt="Salmon Aburi Roll" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Salmon Aburi Roll</div>
+            <div class="image-description">Rolled rice with cream cheese, avocado, cucumber, and flame-seared salmon. Rolled rice with cream cheese, avocado, cucumber, and flame-seared salmon.</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -189,13 +183,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 43.000,00</p>
 </div>
 
-<!-- Eleventh Dish (Salmon Volcano Bomb) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/07/B700033-4-scaled.jpg" alt="Salmon Volcano Bomb" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Salmon Volcano Bomb</div>
+            <div class="image-description">The salmon is grilled and served with mentai sauce, tobiko and green onions. The combination of salty, spicy and creamy flavors from the mentai sauce and the deliciousness of perfectly grilled salmon, coupled with the crunchy texture of the tobiko</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
@@ -207,13 +199,11 @@
     <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
 </div>
 
-<!-- Twelfth Dish (Futomaki) -->
 <div class="group relative">
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://www.justonecookbook.com/wp-content/uploads/2020/01/Futomaki-1344-I.jpg" alt="Futomaki" class="h-full w-full object-cover object-center">
-        <!-- Description displayed on hover inside the image -->
         <div class="image-description-overlay">
-            <div class="image-description">Futomaki</div>
+            <div class="image-description">A Japanese sushi roll ("fat rolled sushi”) containing seasoned rice and fillings wrapped in a thin sheet of roasted, dried nori seaweed. </div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
