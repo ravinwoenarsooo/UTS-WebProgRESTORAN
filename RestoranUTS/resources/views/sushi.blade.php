@@ -117,81 +117,113 @@
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <h2 class="text-2xl font-bold text-gray-900">Sushi</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://blog.sesa.id/wp-content/uploads/2022/02/SALMON-MENTAI.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Salmon Mentai Roll
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/8a/be/aa/salmon-unagi-cheese-roll.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Salmon Unagi Roll
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 47.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://secretsofsushi.com/wp-content/uploads/2014/07/Salmon_Roll_web.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Salmon Maki
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 36.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://blog.sesa.id/wp-content/uploads/2022/02/SALMON-MENTAI.jpg" alt="Salmon Mentai Roll" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Salmon Mentai Roll</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Salmon Mentai Roll
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
+</div>
+
+<!-- Eighth Dish (Salmon Unagi Roll) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/8a/be/aa/salmon-unagi-cheese-roll.jpg" alt="Salmon Unagi Roll" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Salmon Unagi Roll</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Salmon Unagi Roll
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 47.000,00</p>
+</div>
+
+<!-- Ninth Dish (Salmon Maki) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://secretsofsushi.com/wp-content/uploads/2014/07/Salmon_Roll_web.jpg" alt="Salmon Maki" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Salmon Maki</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Salmon Maki
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 36.000,00</p>
+</div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/3c/42/92/salmon-aburi-roll.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Salmon Aburi Roll
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 43.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/07/B700033-4-scaled.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Salmon Volcano Bomb
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.justonecookbook.com/wp-content/uploads/2020/01/Futomaki-1344-I.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Futomaki
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 33.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/3c/42/92/salmon-aburi-roll.jpg" alt="Salmon Aburi Roll" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Salmon Aburi Roll</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Salmon Aburi Roll
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 43.000,00</p>
+</div>
+
+<!-- Eleventh Dish (Salmon Volcano Bomb) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.blibli.com/friends-backend/wp-content/uploads/2023/07/B700033-4-scaled.jpg" alt="Salmon Volcano Bomb" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Salmon Volcano Bomb</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Salmon Volcano Bomb
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 40.000,00</p>
+</div>
+
+<!-- Twelfth Dish (Futomaki) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.justonecookbook.com/wp-content/uploads/2020/01/Futomaki-1344-I.jpg" alt="Futomaki" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Futomaki</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Futomaki
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 33.000,00</p>
+</div>
             </div>
         </div>
     </div>
