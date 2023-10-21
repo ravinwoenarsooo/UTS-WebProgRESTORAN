@@ -90,78 +90,78 @@
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://static01.nyt.com/images/2018/07/25/dining/HK-karaage-horizontal/merlin_141075300_74569dec-9fc2-4174-931d-019dddef3bb8-superJumbo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Chicken Karage 
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">Rp. .000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-02.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://asset.kompas.com/crops/g1ZRThHPyu9fk48T5_ZG9EC4Gzs=/36x69:606x449/750x500/data/photo/2021/12/06/61adb12ae38e0.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Gyoza
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://awsimages.detik.net.id/community/media/visual/2022/06/30/resep-chicken-katsu_43.jpeg?w=1200" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Travel
+                        Chicken Katsu
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">.000,00</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://images.healthshots.com/healthshots/en/uploads/2023/06/30144826/edamame-1600x900.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Edamame
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
+                    <p class="text-base font-semibold text-gray-900">.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-02.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://awsimages.detik.net.id/community/media/visual/2021/07/26/resep-ebi-furai-hokben_43.jpeg?w=1200" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Ebi Furai
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
+                    <p class="text-base font-semibold text-gray-900">.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://www.escapat.com/en/img/magazine/100050/Tempura_batter_with_panko_1.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Travel
+                        Tempura
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
+                    <p class="text-base font-semibold text-gray-900">.000,00</p>
                 </div>
             </div>
         </div>
