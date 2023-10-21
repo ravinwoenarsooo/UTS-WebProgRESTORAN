@@ -134,69 +134,88 @@
     <p class="text-base font-semibold text-gray-900">Rp. 12.000,00</p>
 </div>
 
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.jjdrinks.com.sg/wp-content/uploads/2021/12/ocha-01-1.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Ocha
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">Rp. 8.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://hips.hearstapps.com/del.h-cdn.co/assets/17/08/2048x1024/landscape-1487867180-13559151-1777121079199514-6612360195297795246-o.jpg?resize=1200:*" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Sprite
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
-                </div>
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.jjdrinks.com.sg/wp-content/uploads/2021/12/ocha-01-1.jpg" alt="Ocha" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Ocha</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Ocha
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">Rp. 8.000,00</p>
+</div>
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://hips.hearstapps.com/del.h-cdn.co/assets/17/08/2048x1024/landscape-1487867180-13559151-1777121079199514-6612360195297795246-o.jpg?resize=1200:*" alt="Sprite" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Sprite</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Sprite
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
+</div>
+
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://kanakala.id/wp-content/uploads/2023/07/Kanakala-Lychee-Tea-Landscape2-scaled.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Lychee Tea
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">Rp. 13.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://portfoliocoffee.ca/cdn/shop/articles/cb9899383fd14d627168ecc7aff69c29.jpg?v=1656076688" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Coffee
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">Rp. 17.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://media.istockphoto.com/id/497892585/photo/homemade-iced-tea-with-lemons.jpg?s=612x612&w=0&k=20&c=bJ9exSdr4HCoTDZvkxt-RkoAlgTtgUxaSaa2hqEQbhU=" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Iced Lemon Tea
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://kanakala.id/wp-content/uploads/2023/07/Kanakala-Lychee-Tea-Landscape2-scaled.jpg" alt="Lychee Tea" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Lychee Tea</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Lychee Tea
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">Rp. 13.000,00</p>
+</div>
+
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://portfoliocoffee.ca/cdn/shop/articles/cb9899383fd14d627168ecc7aff69c29.jpg?v=1656076688" alt="Coffee" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Coffee</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Coffee
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">Rp. 17.000,00</p>
+</div>
+
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://media.istockphoto.com/id/497892585/photo/homemade-iced-tea-with-lemons.jpg?s=612x612&w=0&k=20&c=bJ9exSdr4HCoTDZvkxt-RkoAlgTtgUxaSaa2hqEQbhU=" alt="Lemon Tea" class="h-full w-full object-cover object-center">
+        <div class="image-description-overlay">
+            <div class="image-description">Lemon Tea</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Lemon Tea
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">Rp. 15.000,00</p>
+</div>
+
             </div>
         </div>
     </div>
