@@ -94,7 +94,7 @@
                     <img src="https://static.vecteezy.com/system/resources/previews/002/889/188/large_2x/beef-sliced-on-topped-rice-with-egg-or-gyudon-japanese-food-style-free-photo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('menu') }}">
                         <span class="absolute inset-0"></span>
                         ライスボウル
                     </a>
@@ -106,7 +106,7 @@
                     <img src="https://iso.500px.com/wp-content/uploads/2020/02/Sushi-and-sashimi-variety-on-rustic-background-By-Alena-Haurylik-2.jpeg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('menu') }}">
                         <span class="absolute inset-0"></span>
                         すし
                     </a>
@@ -118,7 +118,7 @@
                     <img src="https://eatstreetcrossing.com/wp-content/uploads/2022/06/Trio-Ramen-Beauty-Shot-Landscape.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
+                    <a href="{{ route('menu') }}{{ route('menu') }}">
                         <span class="absolute inset-0"></span>
                         ラーメン
                     </a>
