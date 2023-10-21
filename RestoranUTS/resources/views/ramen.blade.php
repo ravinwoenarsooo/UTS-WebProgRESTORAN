@@ -95,10 +95,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Tonkotsu Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Tonkotsu Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 78.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -107,22 +107,22 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Tori Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Tori Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 52.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x375.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x375.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
-                    <h3 class="text-sm text-gray-500">
+                    <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Travel
+                        Miso Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Miso Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 50.000,00</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
@@ -134,10 +134,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Desk and Office
+                        Tokushima Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Tokushima Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 80.000.00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -146,10 +146,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Self-Improvement
+                        Tokyo Shoyu Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Tokyo Shoyu Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
@@ -158,10 +158,10 @@
                     <h3 class="mt-6 text-sm text-gray-500">
                     <a href="#">
                         <span class="absolute inset-0"></span>
-                        Travel
+                        Hakodate Shio Ramen
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Hakodate Shio Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
                 </div>
             </div>
         </div>
