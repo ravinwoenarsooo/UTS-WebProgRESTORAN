@@ -42,3 +42,7 @@ Route::get('/login', [NewPageController::class, 'login'])->name('login');
 Route::get('/register', [NewPageController::class, 'register'])->name('register');
 Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');
 Route::get('/forgotpassword', [NewPageController::class, 'forgotpassword'])->name('forgotpassword');
+
+Route::get('/new', function(){
+return view('newpassword');
+});

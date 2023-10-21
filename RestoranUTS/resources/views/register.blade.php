@@ -11,7 +11,6 @@
   <div class="sm:mx-auto sm:w-full sm:max-w-sm">
     <button type="button" class="absolute top-4 left-4 rounded-md bg-red-500 px-3 py-2 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-white hover:text-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-500">
       <a href="{{ route('home') }}" class="text-white hover:bg-white hover:text-red-500 block rounded-md px-2 py-1 text-sm font-medium">←Home</a>
-      <!-- <span class="mr-1">←</span> Back -->
     </button>
     <img class="mx-auto h-10 w-auto" src="https://1000marcas.net/wp-content/uploads/2022/05/Akatsuki-Logo.png" alt="Your Company">
     <h2 class="mt-1 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Register</h2>

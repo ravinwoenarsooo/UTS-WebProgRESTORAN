@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
-    <title>Login</title>
+    <title>Forgot Password</title>
 </head>
 <body>
 <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
