@@ -121,7 +121,7 @@
     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
         <img src="https://luxurylaunches.com/wp-content/uploads/2019/08/landscape_bottle_us.jpg" alt="Mineral Water" class="h-full w-full object-cover object-center">
         <div class="image-description-overlay">
-            <div class="image-description">Fresh Evian Water</div>
+            <div class="image-description">Mineral water is a type of water that contains various minerals and trace elements, often originating from natural underground sources. Sponsored by Evian</div>
         </div>
     </div>
     <h3 class="mt-6 text-sm text-gray-500">
