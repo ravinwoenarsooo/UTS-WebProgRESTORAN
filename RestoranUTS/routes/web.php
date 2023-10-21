@@ -30,9 +30,9 @@ use Illuminate\Support\Facades\Route;
 //     return view('menu');
 // });
 
-// Route::get('/cart', function(){
-//     return view('shoppingcart');
-// });
+Route::get('/cart', function(){
+    return view('shoppingcart');
+});
 
 // Route::get('/new', function(){
 // return view('newpassword');
