@@ -7,6 +7,9 @@ class NewPageController extends Controller
     public function admin(){
         return view('admin');
     }
+    public function adminui(){
+        return view('adminui');
+    }
     public function home(){
         return view('home');
     }

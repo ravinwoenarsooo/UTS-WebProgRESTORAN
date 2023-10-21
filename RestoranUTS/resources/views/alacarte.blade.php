@@ -4,7 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
+<<<<<<< Updated upstream
     <title>Ala Carte</title>
+=======
+    <title>Menu</title>
+>>>>>>> Stashed changes
 </head>
 <style>
         nav {
@@ -18,6 +22,7 @@
         body {
             padding-top: 64px; 
         }
+<<<<<<< Updated upstream
         .group {
             position: relative;
         }
@@ -48,6 +53,9 @@
             padding: 5px;
         }
     </style>
+=======
+</style>
+>>>>>>> Stashed changes
 <body>
 <!-- Nav -->
 <nav class="bg-red-500">
