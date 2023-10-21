@@ -47,6 +47,7 @@ Route::get('/register', [NewPageController::class, 'register'])->name('register'
 Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');
 Route::get('/cart', [NewPageController::class, 'cart'])->name('cart');
 Route::get('/forgotpassword', [NewPageController::class, 'forgotpassword'])->name('forgotpassword');
+Route::get('/newpassword', [NewPageController::class, 'newpassword'])->name('newpassword');
 Route::get('/alacarte', [NewPageController::class, 'alacarte'])->name('alacarte');
 Route::get('/beverages', [NewPageController::class, 'beverages'])->name('beverages');
 Route::get('/dessert', [NewPageController::class, 'dessert'])->name('dessert');
