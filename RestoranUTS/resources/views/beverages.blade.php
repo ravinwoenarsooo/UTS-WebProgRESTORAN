@@ -18,6 +18,35 @@
         body {
             padding-top: 64px; 
         }
+        .group {
+            position: relative;
+        }
+
+        .image-description-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .group:hover .image-description-overlay {
+            opacity: 1;
+        }
+
+        .image-description {
+            font-size: 14px;
+            padding: 5px;
+        }
     </style>
 <body>
 <!-- Nav -->

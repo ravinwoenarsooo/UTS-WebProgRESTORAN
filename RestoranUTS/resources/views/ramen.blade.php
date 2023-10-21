@@ -17,6 +17,36 @@
         body {
             padding-top: 64px; 
         }
+
+        .group {
+            position: relative;
+        }
+
+        .image-description-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .group:hover .image-description-overlay {
+            opacity: 1;
+        }
+
+        .image-description {
+            font-size: 14px;
+            padding: 5px;
+        }
     </style>
 </head>
 <body>
@@ -88,81 +118,109 @@
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <h2 class="text-2xl font-bold text-gray-900">Ramen</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.souschef.co.uk/cdn/shop/articles/shutterstock_697241275_tonkotsu_ramen-landscape.jpg?v=1562316760" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Tonkotsu Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 78.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://asset.kompas.com/crops/ul9r1FelS4kqjU-7U7wHqk8ZPiA=/100x121:900x654/750x500/data/photo/2023/03/03/6402073d9d6bc.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Tori Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 52.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x375.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Miso Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 50.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.souschef.co.uk/cdn/shop/articles/shutterstock_697241275_tonkotsu_ramen-landscape.jpg?v=1562316760" alt="Delicious Tonkotsu Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Deskripsi</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Tonkotsu Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 78.000,00</p>
+</div>
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://asset.kompas.com/crops/ul9r1FelS4kqjU-7U7wHqk8ZPiA=/100x121:900x654/750x500/data/photo/2023/03/03/6402073d9d6bc.jpg" alt="Scrumptious Tori Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Deskripsi</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Tori Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 52.000,00</p>
+</div>
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x375.jpg" alt="Delicious Miso Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Deskripsi</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Miso Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 50.000,00</p>
+</div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://nexttrip.info/up_load_files/5338/photo02.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Tokushima Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 80.000.00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.wakouusa.com/wp-content/uploads/2017/08/001SHOYU_RAMEN_113_edit.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Tokyo Shoyu Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
-                </div>
-                <div class="group relative">
-                    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://asianinspirations.com.au/wp-content/uploads/2019/07/R02338_Hakodate_Shio_Ramen.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
-                    </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="#">
-                        <span class="absolute inset-0"></span>
-                        Hakodate Shio Ramen
-                    </a>
-                    </h3>
-                    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
-                </div>
+            <div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://nexttrip.info/up_load_files/5338/photo02.jpg" alt="Delicious Tokushima Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Delicious Tokushima Ramen</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Tokushima Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 80.000.00</p>
+</div>
+
+<!-- Fifth Ramen (Tokyo Shoyu Ramen) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://www.wakouusa.com/wp-content/uploads/2017/08/001SHOYU_RAMEN_113_edit.jpg" alt="Delicious Tokyo Shoyu Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Delicious Tokyo Shoyu Ramen</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Tokyo Shoyu Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
+</div>
+
+<!-- Sixth Ramen (Hakodate Shio Ramen) -->
+<div class="group relative">
+    <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+        <img src="https://asianinspirations.com.au/wp-content/uploads/2019/07/R02338_Hakodate_Shio_Ramen.jpg" alt="Delicious Hakodate Shio Ramen" class="h-full w-full object-cover object-center">
+        <!-- Description displayed on hover inside the image -->
+        <div class="image-description-overlay">
+            <div class="image-description">Delicious Hakodate Shio Ramen</div>
+        </div>
+    </div>
+    <h3 class="mt-6 text-sm text-gray-500">
+        <a href="#">
+            <span class="absolute inset-0"></span>
+            Hakodate Shio Ramen
+        </a>
+    </h3>
+    <p class="text-base font-semibold text-gray-900">IDR 48.000,00</p>
+</div>
             </div>
         </div>
     </div>
