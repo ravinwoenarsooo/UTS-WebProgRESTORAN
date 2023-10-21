@@ -40,8 +40,7 @@
     </form>
 
     <p class="mt-10 text-center text-sm text-gray-500">
-        Are You New?
-        <a href="{{ route('register') }}" class="font-semibold leading-6 text-black hover:text-red-500">Sign Up Here</a>
+        <a href="{{ route('login') }}" class="font-semibold leading-6 text-black hover:text-red-500">Back To Sign In</a>
     </p>
     </div>
 </div>
