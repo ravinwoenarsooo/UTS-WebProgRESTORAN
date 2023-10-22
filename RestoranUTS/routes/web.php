@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\NewPageController;
+use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 use App\Models\User;
 
@@ -42,8 +43,11 @@ use App\Models\User;
 Route::get('/welcome', [NewPageController::class, 'welcome'])->name('welcome');
 Route::get('/admin', [NewPageController::class, 'admin'])->name('admin');
 Route::get('/adminui', [NewPageController::class, 'adminui'])->name('adminui');
-Route::get('/home', [NewPageController::class, 'home'])->name('home');
+Route::get('/', [NewPageController::class, 'home'])->name('home');
 Route::get('/login', [NewPageController::class, 'login'])->name('login');
+
+Route::post('/login', [LoginController::class, 'login']);
+
 Route::get('/register', [NewPageController::class, 'register'])->name('register');
 
 Route::post('/register', function(){
