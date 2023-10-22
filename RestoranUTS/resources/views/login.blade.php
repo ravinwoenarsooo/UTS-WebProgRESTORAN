@@ -23,13 +23,8 @@
       <div>
         <label for="email" class="block text-sm font-medium leading-6 text-gray-900">{{ __('Email Address') }}</label>
         <div class="mt-2">
-          <input id="email" name="email" type="email" autocomplete="email" class="form-control @error('email') is-invalid @enderror" value="{{ old('email') }}" required autocomplete = 'email' required class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
+          <input id="email" name="email" type="email" autocomplete="email" required autocomplete = 'email' required class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
         </div>
-        @error('email')
-          <span class='invalid-feedback' role='alert'>
-            <strong>{{ $message }}</strong>
-          </span>
-        @enderror
       </div>
 
       <div>
@@ -40,12 +35,7 @@
           </div>
         </div>
         <div class="mt-2">
-          <input id="password" name="password" type="password" autocomplete="current-password" class="form-control @error('password') is-invalid @enderror" required class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
-          @error('password')
-            <span class="invalid-feedback" role="alert">
-                <strong>{{ $message }}</strong>
-            </span>
-          @enderror
+          <input id="password" name="password" type="password" autocomplete="current-password" required class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6">
         </div>
       </div>
 
