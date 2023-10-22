@@ -56,7 +56,7 @@ Route::post('/register', function(){
     $user->email = request('email');
     $user->password = request('password');
     $user->save();
-    return redirect('/home');
+    return redirect('/login');
 });
 
 Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');
