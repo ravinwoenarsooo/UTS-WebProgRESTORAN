@@ -1,8 +1,8 @@
 <?php
 
 use App\Http\Controllers\NewPageController;
-use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Auth\LoginController;
 use App\Models\User;
 
 /*
