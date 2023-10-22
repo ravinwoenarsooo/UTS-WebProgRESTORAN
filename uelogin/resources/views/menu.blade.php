@@ -1,23 +1,10 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
-    <title>Home</title>
-    <style>
-        nav {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            background-color: #FF0000; 
-            z-index: 1000; 
-        }
-        body {
-            padding-top: 64px; 
-        }
-    </style>
+    <title>Menu</title>
 </head>
 <body>
 <!-- Nav -->
@@ -54,7 +41,7 @@
         <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-4">
             <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-            <a href="#" class="bg-white text-red-500 rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Dashboard</a>
+            <a href="{{ route('home') }}" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Dashboard</a>
             <a href="#" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">About Us</a>
             <a href="#" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Contact Us</a>
             </div>
@@ -75,92 +62,91 @@
     <div class="sm:hidden" id="mobile-menu">
     <div class="space-y-1 px-2 pb-3 pt-2">
         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-        <a href="#" class="bg-white text-red-500 rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Dashboard</a>
+        <a href="{{ route('home') }}" class="text-white hover:bg-white hover:text-red-500 rounded-md px-3 py-2 text-sm font-medium">Dashboard</a>
         <a href="#" class="text-white hover:bg-white hover:text-red-500 block rounded-md px-3 py-2 text-base font-medium">About Us</a>
         <a href="#" class="text-white hover:bg-white hover:text-red-500 block rounded-md px-3 py-2 text-base font-medium">Contact Us</a>
     </div>
     </div>
 </nav>
-<!-- Carousel -->
 <div class="bg-gray-100">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
-            <h2 class="text-2xl font-bold text-gray-900">Categories</h2>
+            <h2 class="text-2xl font-bold text-gray-900">Rice Bowls</h2>
             <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://static.vecteezy.com/system/resources/previews/002/889/188/large_2x/beef-sliced-on-topped-rice-with-egg-or-gyudon-japanese-food-style-free-photo.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://asset.kompas.com/crops/jNaDWnnnOX0kJdR-tv9hOz9OOxw=/32x0:791x506/750x500/data/photo/2023/01/04/63b563fd4b23e.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('rice') }}">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        ライスボウル
+                        Desk and Office
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Rice Bowls</p>
+                    <p class="text-base font-semibold text-gray-900">Curry Katsu</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://iso.500px.com/wp-content/uploads/2020/02/Sushi-and-sashimi-variety-on-rustic-background-By-Alena-Haurylik-2.jpeg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://thewoksoflife.com/wp-content/uploads/2023/07/gyudon-7.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('sushi') }}">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        すし
+                        Self-Improvement
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Sushi</p>
+                    <p class="text-base font-semibold text-gray-900">Gyudon</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://eatstreetcrossing.com/wp-content/uploads/2022/06/Trio-Ramen-Beauty-Shot-Landscape.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://www.thespruceeats.com/thmb/9xIb4zUFvMmxgCx9-0Pam1bsAAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/katsudon-2031259-hero-01-eaeaad239007461ab5fdb909bcf52c76.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
-                    <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('ramen') }}">
+                    <h3 class="text-sm text-gray-500">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        ラーメン
+                        Travel
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Ramen</p>
+                    <p class="text-base font-semibold text-gray-900">Katsudon</p>
                 </div>
             </div>
             <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
             <div class="mt-1 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.schlotzskys.com/-/media/schlotzskys/menu/beverages/coke-products_874x440.jpg?v=1&d=20210630T085825Z" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
+                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg" alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('beverages') }}">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        飲み物
+                        Desk and Office
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Beverages</p>
+                    <p class="text-base font-semibold text-gray-900">Work from home accessories</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/02/22155411/Japanese-dessert-1600x900.jpg?tr=w-1280,pr-true" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
+                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-02.jpg" alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('dessert') }}">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        デザート
+                        Self-Improvement
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Desserts</p>
+                    <p class="text-base font-semibold text-gray-900">Journals and note-taking</p>
                 </div>
                 <div class="group relative">
                     <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
-                    <img src="https://www.masakapahariini.com/wp-content/uploads/2023/10/shutterstock_736494148-780x440.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
+                    <img src="https://tailwindui.com/img/ecommerce-images/home-page-02-edition-03.jpg" alt="Collection of four insulated travel bottles on wooden shelf." class="h-full w-full object-cover object-center">
                     </div>
                     <h3 class="mt-6 text-sm text-gray-500">
-                    <a href="{{ route('alacarte') }}">
+                    <a href="#">
                         <span class="absolute inset-0"></span>
-                        アラカルト
+                        Travel
                     </a>
                     </h3>
-                    <p class="text-base font-semibold text-gray-900">Ala-Carte</p>
+                    <p class="text-base font-semibold text-gray-900">Daily commute essentials</p>
                 </div>
             </div>
         </div>
@@ -172,8 +158,17 @@
         <h2 class="text-3xl font-extrabold text-black mb-6">About Us</h2>
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
-                <p class="text-black text-lg font-medium leading-loose tracking-wider text-justify mb-4">
-                Selamat datang di Kenjiro Kashiwa, tempat menikmati autentisitas masakan Jepang dengan sentuhan khas kami. Chef Kenjiro Kashiwa, dengan puluhan tahun pengalaman, membawa kelezatan Jepang ke meja Anda. Dari sushi segar hingga ramen menggugah selera, kami hadirkan rasa Jepang otentik dengan cinta. Bergabunglah dalam perjalanan rasa kami!
+                <p class="text-black leading-relaxed mb-4">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
+                    Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
+                </p>
+                <p class="text-black leading-relaxed mb-4">
+                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
+                    fermentum scelerisque at non ex. Sed vel ipsum velit.
+                </p>
+                <p class="text-black leading-relaxed mb-4">
+                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
+                    Vivamus a neque et odio aliquam hendrerit.
                 </p>
             </div>
         </div>
@@ -185,9 +180,17 @@
         <h2 class="text-3xl font-extrabold text-white mb-6">Our Contacts</h2>
         <div class="md:flex md:space-x-6">
             <div class="md:text-center">
-                <p class="text-white text-lg font-medium leading-loose tracking-wider text-justify mb-4"">
+                <p class="text-white leading-relaxed mb-4">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique purus vel leo feugiat.
                     Vestibulum id nulla odio. Suspendisse potenti. Aenean bibendum dignissim metus, id mattis neque ultrices sed.
+                </p>
+                <p class="text-white leading-relaxed mb-4">
+                    Curabitur sodales ante vitae quam bibendum, nec posuere metus feugiat. Maecenas a nunc nec libero
+                    fermentum scelerisque at non ex. Sed vel ipsum velit.
+                </p>
+                <p class="text-white leading-relaxed mb-4">
+                    Nunc consectetur eleifend lectus, nec accumsan tellus dignissim a. Sed euismod in urna a commodo.
+                    Vivamus a neque et odio aliquam hendrerit.
                 </p>
             </div>
         </div>
