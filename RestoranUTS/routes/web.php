@@ -39,7 +39,7 @@ use App\Models\User;
 // return view('newpassword');
 // });
 //
-
+Route::get('/welcome', [NewPageController::class, 'welcome'])->name('welcome');
 Route::get('/admin', [NewPageController::class, 'admin'])->name('admin');
 Route::get('/adminui', [NewPageController::class, 'adminui'])->name('adminui');
 Route::get('/home', [NewPageController::class, 'home'])->name('home');

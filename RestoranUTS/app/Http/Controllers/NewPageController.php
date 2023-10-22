@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 class NewPageController extends Controller
 {
+    public function welcome(){
+        return view('welcome');
+    }
     public function admin(){
         return view('admin');
     }
