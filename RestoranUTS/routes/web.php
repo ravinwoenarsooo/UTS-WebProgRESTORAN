@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\NewPageController;
 use Illuminate\Support\Facades\Route;
+use App\Models\User;
 
 /*
 |--------------------------------------------------------------------------
@@ -44,6 +45,20 @@ Route::get('/adminui', [NewPageController::class, 'adminui'])->name('adminui');
 Route::get('/home', [NewPageController::class, 'home'])->name('home');
 Route::get('/login', [NewPageController::class, 'login'])->name('login');
 Route::get('/register', [NewPageController::class, 'register'])->name('register');
+
+Route::post('/register', function(){
+    $user = new User();
+    $user->first_name = request('first_name');
+    $user->last_name = request('last_name');
+    $user->birth_date = request('birth_date');
+    $user->gender = request('gender');
+    $user->username = request('username');
+    $user->email = request('email');
+    $user->password = request('password');
+    $user->save();
+    return redirect('/home');
+});
+
 Route::get('/menu', [NewPageController::class, 'menu'])->name('menu');
 Route::get('/cart', [NewPageController::class, 'cart'])->name('cart');
 Route::get('/forgotpassword', [NewPageController::class, 'forgotpassword'])->name('forgotpassword');

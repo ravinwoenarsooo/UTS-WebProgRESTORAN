@@ -17,10 +17,9 @@ return new class extends Migration
             $table->string('last_name',20);
             $table->date('birth_date');
             $table->string('gender');
-            $table->string('username');
+            $table->string('username')->unique();
             $table->string('email')->unique();
             $table->string('password');
-            $table->rememberToken();
             $table->timestamps();
         });
     }
